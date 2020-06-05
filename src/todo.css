@@ -1,0 +1,10 @@
+.todo-container {
+  width: 600px;
+  margin: 100px auto;
+  background-color: #ccc;
+  text-align: center;
+  min-height: 300px;
+}
+.completed {
+  text-decoration: line-through;
+}
